@@ -1,1 +1,2 @@
 This is the my file to test commands.
+this is new line from feature about
